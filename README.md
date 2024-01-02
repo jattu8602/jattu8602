@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jattu8602
+- 👋 Hi, I’m @Nitesh Chourasiya 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on my project on c++
