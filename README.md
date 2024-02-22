@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Nitesh Chourasiya 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on my project on c++
+- 💞️ I’m looking to collaborate on my project on web dev
+i m looking for a data base manager
+
 - 📫 How to reach me - chaurasiyajatin68@gmail.com
 - other g-mail -- chaurasiyanitesh68@gmail.com
 
