@@ -90,18 +90,14 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/jattu8602/jattu8602/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="left" height="225" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+<img align="left" height="200" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
 
 ###
 
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
-</div>
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
 
 ###
