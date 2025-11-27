@@ -2,6 +2,15 @@
 <h1 align="center">Hi 👋, I'm NITESH CHOURASIYA</h1>
 <h3 align="center">A passionate Full Stack Developer and software engineer from India.</h3>
 
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jattu8602&label=Profile%20views&color=0e75b6&style=flat" alt="jattu8602" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jattu8602" alt="jattu8602" /></a> </p>
