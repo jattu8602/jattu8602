@@ -24,6 +24,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
 
+      - name: Move to dist
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/
+
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
