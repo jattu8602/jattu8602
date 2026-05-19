@@ -34,7 +34,7 @@
 | :---: | :--- | :--- | :--- |
 | - | **NotesMates** | A student-driven platform providing engineering study resources, notes, PYQs, and academic tools. | [notesmates.in](https://notesmates.in) |
 | <a href="assets/assignmates.png"><img src="assets/assignmates.png" width="60"></a> | **AssignMates** | A Flutter-based app providing assignment help for college students. | [Play Store](https://play.google.com/store/apps/details?id=in.notesmates.assignmates) |
-| - | **Outlawed** | An AI-powered preparation platform for law entrance exams (CLAT, AILET) with mock tests and analytics. | [outlawed.in](https://outlawed.in) |
+| <a href="assets/outlawed.gif"><img src="assets/outlawed.gif" width="60"></a> | **Outlawed** | An AI-powered preparation platform for law entrance exams (CLAT, AILET) with mock tests and analytics. | [outlawed.in](https://outlawed.in) |
 | - | **SSB CalmChase** | A dedicated platform and gateway for preparation, guidance, and learning. | [ssb.calmchase.com](https://ssb.calmchase.com) |
 | - | **PresentSir** | A digital school management system designed to streamline attendance tracking and academic monitoring. | [presentsir.in](https://presentsir.in) |
 
