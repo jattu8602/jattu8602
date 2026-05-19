@@ -30,24 +30,24 @@
 
 ### 🚀 Hobby Projects
 
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **NotesMates** | A student-driven platform providing engineering study resources, notes, PYQs, and academic tools. | [notesmates.in](https://notesmates.in) |
-| **AssignMates** | A Flutter-based app providing assignment help for college students. | [Play Store](https://play.google.com/store/apps/details?id=in.notesmates.assignmates) |
-| **Outlawed** | An AI-powered preparation platform for law entrance exams (CLAT, AILET) with mock tests and analytics. | [outlawed.in](https://outlawed.in) |
-| **SSB CalmChase** | A dedicated platform and gateway for preparation, guidance, and learning. | [ssb.calmchase.com](https://ssb.calmchase.com) |
-| **PresentSir** | A digital school management system designed to streamline attendance tracking and academic monitoring. | [presentsir.in](https://presentsir.in) |
+| Preview | Project Name | Description | Link |
+| :---: | :--- | :--- | :--- |
+| - | **NotesMates** | A student-driven platform providing engineering study resources, notes, PYQs, and academic tools. | [notesmates.in](https://notesmates.in) |
+| <a href="assets/assignmates.png"><img src="assets/assignmates.png" width="60"></a> | **AssignMates** | A Flutter-based app providing assignment help for college students. | [Play Store](https://play.google.com/store/apps/details?id=in.notesmates.assignmates) |
+| - | **Outlawed** | An AI-powered preparation platform for law entrance exams (CLAT, AILET) with mock tests and analytics. | [outlawed.in](https://outlawed.in) |
+| - | **SSB CalmChase** | A dedicated platform and gateway for preparation, guidance, and learning. | [ssb.calmchase.com](https://ssb.calmchase.com) |
+| - | **PresentSir** | A digital school management system designed to streamline attendance tracking and academic monitoring. | [presentsir.in](https://presentsir.in) |
 
 ### 💼 Freelancing Projects
 
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **Daksh Edu** | An interactive, engaging educational platform tailored for students and adopted by schools across India. | [dakshedu.in](https://dakshedu.in) |
-| **Passiflora Properties** | A dedicated web platform for real estate and property listings. | [Website](https://passifloraproperties.vercel.app/) |
-| **Royal India Mobility** | A professional business website for a mobility and transportation solutions provider. | [royalindiamobility.com](https://www.royalindiamobility.com/) |
-| **Mehta Auto Works** | A service-oriented website for an automotive works business. | [mehtaautoworks.com](https://www.mehtaautoworks.com/) |
-| **EnergInAI** | Built a React Native smart energy monitoring app and integrated it with an AI-driven energy intelligence platform. | [Website](http://energinai.com/) <br/> [App Store](https://apps.apple.com/us/app/energinai/id6761161398) |
-| **Provider App** | An application for searching and listing rental accommodations like hostels, PGs, and flats. | [Play Store](https://play.google.com/store/apps/details?id=provider.in) |
+| Preview | Project Name | Description | Link |
+| :---: | :--- | :--- | :--- |
+| - | **Daksh Edu** | An interactive, engaging educational platform tailored for students and adopted by schools across India. | [dakshedu.in](https://dakshedu.in) |
+| - | **Passiflora Properties** | A dedicated web platform for real estate and property listings. | [Website](https://passifloraproperties.vercel.app/) |
+| - | **Royal India Mobility** | A professional business website for a mobility and transportation solutions provider. | [royalindiamobility.com](https://www.royalindiamobility.com/) |
+| - | **Mehta Auto Works** | A service-oriented website for an automotive works business. | [mehtaautoworks.com](https://www.mehtaautoworks.com/) |
+| <a href="assets/energinai.png"><img src="assets/energinai.png" width="60"></a> | **EnergInAI** | Built a React Native smart energy monitoring app and integrated it with an AI-driven energy intelligence platform. | [Website](http://energinai.com/) <br/> [App Store](https://apps.apple.com/us/app/energinai/id6761161398) |
+| <a href="assets/provider.png"><img src="assets/provider.png" width="60"></a> | **Provider App** | An application for searching and listing rental accommodations like hostels, PGs, and flats. | [Play Store](https://play.google.com/store/apps/details?id=provider.in) |
 
 ### 📚 Learning Projects
 
