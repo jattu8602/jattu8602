@@ -24,6 +24,25 @@
 - I'm interested in coding, sleeping, and watching film
 - My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 
+
+## 💻 Projects
+
+### 🚀 Hobby Projects
+
+| Project Name | Description | Link |
+| :--- | :--- | :--- |
+| **NotesMates** | A student-driven platform providing engineering study resources, notes, PYQs, and academic tools. | [notesmates.in](https://notesmates.in) |
+| **Outlawed** | An AI-powered preparation platform for law entrance exams (CLAT, AILET) with mock tests and analytics. | [outlawed.in](https://outlawed.in) |
+| **SSB CalmChase** | A dedicated platform and gateway for preparation, guidance, and learning. | [ssb.calmchase.com](https://ssb.calmchase.com) |
+| **PresentSir** | A digital school management system designed to streamline attendance tracking and academic monitoring. | [presentsir.in](https://presentsir.in) |
+
+### 📚 Learning Projects
+
+| Project Name | Description | Link |
+| :--- | :--- | :--- |
+| **End-To-End ML Project** | A comprehensive machine learning lifecycle project featuring data ingestion, logging, exception handling, model training, and deployment on AWS/Azure using CI/CD pipelines. | [Source Code](https://github.com/jattu8602/mlproject) |
+
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-chourasiya-a66715292/)
