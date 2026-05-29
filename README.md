@@ -54,6 +54,9 @@
 | Project Name | Description | Link |
 | :--- | :--- | :--- |
 | **End-To-End ML Project** | A comprehensive machine learning lifecycle project featuring data ingestion, logging, exception handling, model training, and deployment on AWS/Azure using CI/CD pipelines. | [Source Code](https://github.com/jattu8602/mlproject) |
+| **LeetCode Questions** | Solutions to algorithmic problems and data structures challenges on LeetCode. | [Source Code](https://github.com/jattu8602?tab=repositories) |
+| **Cognizant JavaFSE Upskilling** | Cognizant upskilling - html, css, js, bootstrap, java, sql | [Source Code](https://github.com/jattu8602/Cognizant-JavaFSE-Upskilling) |
+| **Java Full Stack Learning** | Full-stack Java learning journey and projects. | [Source Code](https://github.com/jattu8602/java_full_stack_learning) |
 
 
 ## 🌐 Connect With Me
