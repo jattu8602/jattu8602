@@ -57,6 +57,7 @@
 | **LeetCode Questions** | Solutions to algorithmic problems and data structures challenges on LeetCode. | [Source Code](https://github.com/jattu8602?tab=repositories) |
 | **Cognizant JavaFSE Upskilling** | Cognizant upskilling - html, css, js, bootstrap, java, sql | [Source Code](https://github.com/jattu8602/Cognizant-JavaFSE-Upskilling) |
 | **Java Full Stack Learning** | Full-stack Java learning journey and projects. | [Source Code](https://github.com/jattu8602/java_full_stack_learning) |
+| **DeepSkilling Cognizant** | Deep skilling and advanced technical training under Cognizant. | [Source Code](https://github.com/jattu8602/DeepSkilling) |
 
 
 ## 🌐 Connect With Me
@@ -69,6 +70,10 @@
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/jattu85166176)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaurasiyanitesh68@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/chaurasiyanitesh/)
+[![Gravatar](https://img.shields.io/badge/-Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/left82b51f829fb)
+
+<iframe src="https://gravatar.com/left82b51f829fb.card" width="415" height="228" style="border:0; margin:0; padding:0;"></iframe>
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://app.docker.com/accounts/chaurasiyajatin68/settings/account-information)
 
 
 ## 🛠️ Tech Stack & Tools
