@@ -72,7 +72,9 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/chaurasiyanitesh/)
 [![Gravatar](https://img.shields.io/badge/-Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/left82b51f829fb)
 
-<iframe src="https://gravatar.com/left82b51f829fb.card" width="415" height="228" style="border:0; margin:0; padding:0;"></iframe>
+<a href="https://gravatar.com/left82b51f829fb">
+  <img src="https://2.gravatar.com/avatar/66036dfdb275d9115218689986d57c56fb6ab962711fc987706579dcb0aaa2c4?s=200" alt="Gravatar Profile" width="100" style="border-radius: 50%;">
+</a>
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://app.docker.com/accounts/chaurasiyajatin68/settings/account-information)
 
