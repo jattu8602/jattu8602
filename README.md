@@ -60,7 +60,34 @@
 | **DeepSkilling Cognizant** | Deep skilling and advanced technical training under Cognizant. | [Source Code](https://github.com/jattu8602/DeepSkilling) |
 
 
-## 🌐 Connect With Me
+## 🤝 Contribute to India College Data Project
+
+<p align="center">
+  <a href="https://didactic-pancake-5yz9.onrender.com/">
+    <img src="https://img.shields.io/badge/Live%20App-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+  </a>
+  <a href="https://github.com/jattu8602/didactic-pancake">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://github.com/jattu8602/didactic-pancake/issues">
+    <img src="https://img.shields.io/github/issues/jattu8602/didactic-pancake?style=for-the-badge&logo=github" alt="Issues">
+  </a>
+  <a href="https://github.com/jattu8602/didactic-pancake/fork">
+    <img src="https://img.shields.io/badge/Fork%20%26%20Contribute-FF6F00?style=for-the-badge&logo=git&logoColor=white" alt="Fork">
+  </a>
+</p>
+
+**Our Goal:** Build a comprehensive, open-source directory of contact details (mobile number, email, website) for every college in India — making it easier for students, researchers, and educators to connect.
+
+**How you can help:**
+- ⭐ Star the repo to show support
+- 🍴 Fork and add/update college data
+- 🐛 Report issues or suggest improvements
+- 📢 Share with others who might contribute
+
+> ⚠️ **Warning:** This project is intended for educational and legitimate communication purposes only. **Spamming, unsolicited marketing, or misuse of this data is strictly prohibited.** Use responsibly.
+
+[![Contribute](https://img.shields.io/badge/🚀%20Start%20Contributing-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jattu8602/didactic-pancake)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-chourasiya-a66715292/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@justincodes)
